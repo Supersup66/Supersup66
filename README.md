@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Ubuntu, Celery, Flask, AI-integrations
+
 👯 I’m looking to collaborate with some projects on Python, Django or DRF
+
 💬 Ask me about anything
+
 📫 How to reach me: @Supersup66
+
 ⚡ Fun fact: My car is older than me
+
